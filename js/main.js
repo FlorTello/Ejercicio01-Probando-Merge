@@ -1,4 +1,4 @@
 function saludo(){
-	alert("Hola Mundo");
+	alert("Adios Mundo cruel");
 }
 saludo();
